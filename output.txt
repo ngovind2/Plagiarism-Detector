@@ -1,0 +1,8 @@
+MATCHING STRING IN THE FIRST FILE: 
+int l = 455;
+for (m = 0; m < 5; m++ ){
+   l = l +7;
+MATCHING STRING IN THE SECOND FILE: 
+int k = 455;
+for (r =0; r<5;r++ ){
+   k = k +7;
